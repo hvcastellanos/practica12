@@ -32,7 +32,7 @@
 				$valor1=20;
 				$valor2=7;
 				$resta=$valor1-$valor2;
-				echo "$valor1+$valor2<br/>";	
+				echo "$valor1-$valor2<br/>";	
 				echo "<b>La Resta es:</b>".$resta.'<br/>'; 
 				
 				echo "<br/>";	
@@ -40,7 +40,7 @@
 				$valor1=15;
 				$valor2=7;
 				$multiplicacion=$valor1*$valor2;
-				echo "$valor1+$valor2<br/>";
+				echo "$valor1*$valor2<br/>";
 				echo "<b>La Multiplicacion es:</b>".$multiplicacion.'<br/>'; 
 				
 				echo "<br/>";	
@@ -48,7 +48,7 @@
 				$valor1=35;
 				$valor2=7;
 				$division=$valor1/$valor2;
-				echo "$valor1+$valor2<br/>";
+				echo "$valor1/$valor2<br/>";
 				echo "<b>La Division es:</b>".$division.'<br/>'; 
 			?>
 	</body>
